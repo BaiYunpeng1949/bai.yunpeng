@@ -21,30 +21,29 @@ role: PhD Student at NUS
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: National University of Singapore
+    url: https://nus.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include HCI, RL, Heads-Up Computing and Computationally Rational Model.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Football, Basketball, Computer Games
+  - Technical-driven Research
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: NUS
+      year: 2026
+    - course: Master in Mechatronics
+      institution: The University of Melbourne (drop out due to pandemic)
+      year: 2021
+    - course: BSc in MeEng
+      institution: Beijing Institute of Technology
+      year: 2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
