@@ -130,7 +130,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: News
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -189,31 +189,31 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
   - block: collection
+    id: featured
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Publications
       filters:
         folders:
           - publication
-        exclude_featured: true
+        featured_only: true
     design:
       columns: '2'
-      view: citation
+      view: card
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
   # - block: collection
   #   id: talks
   #   content:
