@@ -128,7 +128,7 @@ sections:
   #   design:
   #     columns: '2'
   - block: collection
-    id: posts
+    id: News
     content:
       title: News
       subtitle: ''
@@ -152,7 +152,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      # view: compact     # Comment to try to remove photos
       columns: '2'
   # - block: portfolio
   #   id: projects
