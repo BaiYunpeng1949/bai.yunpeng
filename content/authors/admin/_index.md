@@ -92,13 +92,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: bai_yunpeng99@u.nus.edu
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -113,11 +113,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: content/uploads/resume.pdf
+    link: /workspaces/bai.yunpeng/content/uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Bai Yunpeng is a third year PhD student supervised by Prof. David Hsu, Shengdong Zhao, and Antti Oulasvirta. He is keen on building models for HCI community and contributing technical knowledge.
+Bai Yunpeng is a third year PhD student supervised by Prof. David Hsu, Shengdong Zhao, and Antti Oulasvirta. He is keen on building models for HCI and broader community.
 {style="text-align: justify;"}
