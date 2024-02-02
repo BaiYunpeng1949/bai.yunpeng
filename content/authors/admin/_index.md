@@ -119,5 +119,7 @@ social:
 highlight_name: true
 ---
 
-Bai Yunpeng is a third year PhD student supervised by Prof. David Hsu, Shengdong Zhao, and Antti Oulasvirta. He is keen on building models for HCI and broader community.
+Bai Yunpeng is a third year PhD student supervised by Prof. David Hsu, Shengdong Zhao, and Antti Oulasvirta. He is keen on building models for HCI and broader community. 
+
+Bai hails from Taiyuan, the capital of Shanxi Province in China. This city holds the distinction of being a pivotal military stronghold for more than two millennia. It is also renowned as the birthplace of the Tang Dynasty, one of China's most celebrated periods. True to his roots in Taiyuan, Bai shares the local passion for noodles, a staple in the region's cuisine.
 {style="text-align: justify;"}
