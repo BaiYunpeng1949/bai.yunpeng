@@ -11,14 +11,12 @@ Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-fl
 ``` -->
 
     
-![png](headsupmultitasker.png)
+<!-- ![png](headsupmultitasker.png) -->
     
 
 <!-- ```python
 print("Welcome to Academic!")
 ``` -->
-
-    <!-- Welcome to Academic! -->
 
 <!-- ## Organize your notebooks
 
