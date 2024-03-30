@@ -5,19 +5,24 @@ title: 'An example conference paper'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Bai Yunpeng
+  - Aleksi Ikkala
+  - Antti Oulasvirta
+  - Shengdong Zhao
+  - Lucia J. Wang
+  - Pengzhi Yang
+  - Peisen Xu
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2024-03-30T00:00:00Z'
+doi: 'https://doi.org/10.1145/3613904.3642540'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-04-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,13 +30,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *Heads-Up Multitasker Simulating Attention Switching On Optical Head-Mounted Displays*
+publication_short: In *CHI '24*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Optical Head-Mounted Displays (OHMDs) allow users to read digital content while walking. A better understanding of how users allocate attention between these two tasks is crucial for improving OHMD interfaces. This paper introduces a computational model for simulating users’ attention switches between reading and walking. We model users’ decision to deploy visual attention as a hierarchical reinforcement learning problem, wherein a supervisory controller optimizes attention allocation while considering both reading activity and walking safety. Our model simulates the control of eye movements and locomotion as an adaptation to the given task priority, design of digital content, and walking speed. The model replicates key multitasking behaviors during OHMD reading while walking, including attention switches, changes in reading and walking speeds, and reading resumptions.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Computationally rational model in the context of Heads-Up Computing.
 
 tags: []
 
@@ -44,13 +49,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/BaiYunpeng1949/heads-up-multitasker'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: 'https://github.com/BaiYunpeng1949/heads-up-multitasker'
+url_video: 'https://www.youtube.com/watch?v=uT3a38G3BNU'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
